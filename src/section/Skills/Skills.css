@@ -1,0 +1,15 @@
+.section-skill {
+  text-align: center;
+}
+
+.section-skill h2 {
+  margin-bottom: 1em;
+}
+
+.content-skills {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+  grid-template-columns: repeat(7, max-content);
+  gap: 65px;
+}

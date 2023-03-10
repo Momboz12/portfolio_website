@@ -1,0 +1,23 @@
+.btn-outline {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 16px;
+    gap: 8px;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    border-radius: 12px;
+    transition: all ease-in .2s;
+    cursor: pointer;
+}
+
+.btn-outline:hover  {
+    color: var(--primary-200);
+    border: 2px solid var(--primary-200);
+}
+
+svg:hover {
+    
+    fill: var(--primary-200);
+}

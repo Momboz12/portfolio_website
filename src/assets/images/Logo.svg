@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: red;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 282.222px;
+        fill: red;
+        text-anchor: middle;
+        font-family: "Lucida Calligraphy";
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <path id="Polígono_1" data-name="Polígono 1" class="cls-1" d="M327.254,0l125,95.492L500,250,452.254,404.508,327.254,500H172.746l-125-95.492L0,250,47.746,95.492,172.746,0H327.254Z"/>
+  <text id="C" class="cls-2" x="159" y="233"><tspan x="159">C</tspan></text>
+  <text id="D" class="cls-2" x="320" y="338"><tspan x="320">D</tspan></text>
+  <text id="O" class="cls-2" x="168" y="443"><tspan x="168">O</tspan></text>
+</svg>

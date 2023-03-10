@@ -1,0 +1,17 @@
+.btn-primary{
+    background-color: var(--primary);
+    color: var(--background);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 16px;
+    gap: 8px;
+    width: 100%;
+    transition: background-color ease-in .2s;
+
+}
+.btn-primary:hover{
+    background-color: var(--primary-200);
+}

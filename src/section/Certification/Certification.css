@@ -1,0 +1,27 @@
+.section-card h2 {
+  margin-bottom: 1em;
+}
+
+.section-card {
+  text-align: center;
+}
+
+.card-home {
+  display: grid;
+  grid-template-columns: repeat(3, max-content);
+  place-items: center;
+  justify-content: center;
+  column-gap: 4rem;
+  row-gap: 2em;
+}
+
+.card-text {
+  max-width: 300px;
+}
+
+@media screen and (max-width: 768px) {
+  .btn-more-project {
+    max-width: 300px;
+    width: 98%;
+  }
+}

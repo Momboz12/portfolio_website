@@ -1,0 +1,12 @@
+.skill-card,
+.skill-info{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.skill-card img{
+    width: 64px;
+    height: 64px;
+}

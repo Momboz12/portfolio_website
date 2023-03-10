@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+}
+
+.header{
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2.5rem;
+}
+
+.header .logo img{
+    height: 80px;
+    width: auto;
+}
+
+.nav{
+    align-items: center;
+    gap: 40px;
+}
+
+@media screen and (max-width: 480px) {
+    .nav a:nth-child(-n + 3){
+        display: none;
+    }
+}

@@ -1,0 +1,16 @@
+.section-experience {
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.section-experience h2 {
+  margin-bottom: 1em;
+}
+
+.content-experience {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 65px;
+}
+
