@@ -6,7 +6,7 @@ export default function WorkExperience(){
 
     return(
         <section className='section-experience'>
-            <h2>Work Experience</h2>
+            <h2>Experiencia laboral</h2>
             <div className='content-experience'>
             {dataWorkExperience.map((work) => (
                 <Timeline 
